@@ -1,0 +1,12 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/saisuhaskodakandla/Downloads/GraphX/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/saisuhaskodakandla/Downloads/GraphX/src/main/scala/GraphX.scala:2:25: object graphx is not a member of package org.apache.spark[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.graphx.{Edge, Graph}[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/saisuhaskodakandla/Downloads/GraphX/src/main/scala/GraphX.scala:21:32: not found: value Edge[0m
+[0m[[0m[31merror[0m] [0m[0m    val edge = input.map(row=> Edge(row(0).toLong,row(1).toLong,1))[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/saisuhaskodakandla/Downloads/GraphX/src/main/scala/GraphX.scala:22:17: not found: value Graph[0m
+[0m[[0m[31merror[0m] [0m[0m    val graph = Graph(vertex, edge).persist()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/saisuhaskodakandla/Downloads/GraphX/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock.[0m

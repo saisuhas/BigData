@@ -1,0 +1,61 @@
+ Highest OutDegree top 5 nodes and count of number of Outgoing edges for each node in Epinions social network datset 
+
+	 Number of outgoing edges are 1801 for NodeID 645
+
+	 Number of outgoing edges are 1669 for NodeID 763
+
+	 Number of outgoing edges are 1621 for NodeID 634
+
+	 Number of outgoing edges are 1128 for NodeID 71399
+
+	 Number of outgoing edges are 976 for NodeID 3924
+
+ Highest InDegree top 5 nodes and count of number of Incoming edges for each node in Epinions social network datset 
+
+	 Number of incoming edges are 3035 for NodeID 18
+
+	 Number of incoming edges are 1521 for NodeID 143
+
+	 Number of incoming edges are 1317 for NodeID 737
+
+	 Number of incoming edges are 1284 for NodeID 790
+
+	 Number of incoming edges are 1180 for NodeID 136
+
+ Highest PageRank values of top 5 nodes in Epinions social network datset 
+
+	 PageRank is 344.1032345875167 for NodeID 18
+
+	 PageRank is 239.0437172312551 for NodeID 737
+
+	 PageRank is 161.0091477586041 for NodeID 118
+
+	 PageRank is 157.6841173361972 for NodeID 1719
+
+	 PageRank is 150.7724189551838 for NodeID 136
+
+ Top 5 Connected Components with the largest number of nodes in Epinions social network datset
+
+	 Component 71749 Number of Nodes 71749
+
+	 Component 74845 Number of Nodes 71749
+
+	 Component 41234 Number of Nodes 0
+
+	 Component 65722 Number of Nodes 0
+
+	 Component 28730 Number of Nodes 0
+
+ Largest Triangle Count for top 5 vertices in Epinions social network datset
+
+	 Number of Triangles are 48674 for Vertex 645
+
+	 Number of Triangles are 47203 for Vertex 18
+
+	 Number of Triangles are 25817 for Vertex 27
+
+	 Number of Triangles are 25230 for Vertex 634
+
+	 Number of Triangles are 24752 for Vertex 44
+
+
